@@ -16,12 +16,13 @@ body {
 }
 
 main {
+    margin-top: 50px;
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+
 }
 
 main h3{
