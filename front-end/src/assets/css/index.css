@@ -1,0 +1,43 @@
+:root{
+    --color-white: #fff;
+    --color-dark1: rgb(39, 39, 39);
+    --color-dark2: #2d2d2d;
+    --color-dark3: #414141;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: var(--color-dark1);
+    opacity: 0.7;
+}
+
+main {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#conteudo{
+    color: var(--color-white);
+}
+
+#conteudo img {
+    width: 300px;
+    height: auto; 
+    border: 1px solid #ddd; 
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+#conteudo img:hover {
+    border: 1px solid red; 
+    cursor: pointer;
+    transform: translate(-0.6%);
+}
