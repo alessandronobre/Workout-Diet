@@ -1,6 +1,6 @@
 ## Workout-Diet
 
-### Projeto voltado para professores de educação fisica e nutricionistas, para prescrisções de treinos e dietas personalizados.
+### Projeto voltado para professores de educação fisica e nutricionistas, para a prescrisções de treinos e dietas personalizados.
 
 Principais tecnologias utilizadas:
 
